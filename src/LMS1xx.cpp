@@ -496,3 +496,4 @@ void LMS1xx::startDevice()
   buf[len] = 0;
   logDebug("RX: %s", buf);
 }
+
